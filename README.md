@@ -1,6 +1,8 @@
 # PumpkintheRunner
 Android game Pumpkin the Runner
 
+You can download on Google Play: https://play.google.com/store/apps/details?id=com.busedagidir.pumpkintherunner
+
 Game video: https://youtu.be/k9zS-fkdcdA
 
 Game screenshots
